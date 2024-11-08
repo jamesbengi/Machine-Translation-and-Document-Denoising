@@ -1,7 +1,7 @@
 # English-to-French Translation and Image  Denoising
 <p>This project demonstrates the implementation of deep learning models for two main tasks:</p>
 <li>English-to-French Translation using RNN-based architectures (LSTM, RNN, and GRU)</li>
-<li>Document Denoising using an autoencoder to remove noise from text data</li>
+<li>Image Denoising using an autoencoder to remove noise from images</li>
 
 # Translation Models
 <p>The following models are implemented to perform sequence-to-sequence translation from English to French</p>
